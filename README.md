@@ -12,4 +12,4 @@ Repository for students of the course of Programming in 1st Batchillerato
 ## Main lessons
 
 - [Arduino](/Arduino/Arduino.md)
-- [Markdown](/Markdown/Markdwon.md)
+- [Markdown](/Markdown/markdown.md)
