@@ -36,4 +36,4 @@ This is a version of the morse code using switch case. It's not finished but it'
 
 The small project is to take this and create a sketch that not only returns the message given in Serial using the same serial but also that blinks with that code. 
 
-https://github.com/d-prieto/J25-Programming/blob/main/Arduino/morseSwitchCase.ino
+[link to the code](https://github.com/d-prieto/J25-Programming/blob/main/Arduino/morseSwitchCase.ino)
